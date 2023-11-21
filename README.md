@@ -1,2 +1,2 @@
-# plugin-template
-A starter template for developing new plugins, ensuring consistency and ease of development.
+# plugin-filesystem
+Allows file system operations, such as manipulating files and directories.
